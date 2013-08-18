@@ -1,0 +1,17 @@
+lowell:
+   first_name: "lowell"
+   last_name: "Fortune"
+   email: "me@lowellfortune.com"
+   profile_name: "pigeondary"
+
+tom:
+    first_name: "Tom"
+    last_name: "Smith"
+    email: "tsmith@tagguu.com"
+    profile_name: "tsmith"
+
+mike:
+    first_name: "Mike"
+    last_name: "The Frog"
+    email: "mike@teamtreehouse.com"
+    profile_name: "mikethefrog"
